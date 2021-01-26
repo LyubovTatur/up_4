@@ -11,6 +11,7 @@ namespace up_4
     {
         static void Main(string[] args)
         {
+
             Console.ReadLine();
         }
     }

@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace DllUp4
 {
+    /// <summary>
+    /// Задание 6
+    /// </summary>
     class Sixth
     {
+        /// <summary>
+        /// Входит ли в область точка
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <param name="r"></param>
+        /// <returns></returns>
         public bool IsInArea(double x, double y, double r)
         {
             if 
