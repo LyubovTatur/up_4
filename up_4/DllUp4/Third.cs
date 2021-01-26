@@ -9,7 +9,7 @@ namespace DllUp4
 {/// <summary>
 /// Задание 3
 /// </summary>
-    class Third
+    public class Third
     {
         List<int> elems = new List<int>();
         static Random random = new Random(DateTime.Now.Second);

@@ -10,13 +10,13 @@ namespace DllUp4
     /// <summary>
     /// Задание 4
     /// </summary>
-    class Fourth
+    public class Fourth
     {
         List<List<int>> matrix = new List<List<int>>();
         /// <summary>
         /// Вывод элементов
         /// </summary>
-        public void print()
+        public void Print()
         {
             for (int i = 0; i < matrix.Count; i++)
             {
@@ -97,7 +97,7 @@ namespace DllUp4
         private int NumCount()
         {
             int count = 0;
-            for (int i = 0; i < matrix[0].Count; i++)
+            for (int i = 0; i < matrix.Count; i++)
             {
                 if (DelCount(matrix[i][matrix[0].Count-1]) == 3)
                 {

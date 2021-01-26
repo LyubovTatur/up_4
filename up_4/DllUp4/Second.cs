@@ -9,7 +9,7 @@ namespace DllUp4
 {/// <summary>
 /// Класс для второго задания
 /// </summary>
-    class Second
+    public class Second
     {
         int num;
         /// <summary>

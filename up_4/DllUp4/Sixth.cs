@@ -9,7 +9,7 @@ namespace DllUp4
     /// <summary>
     /// Задание 6
     /// </summary>
-    class Sixth
+    public class Sixth
     {
         /// <summary>
         /// Входит ли в область точка
@@ -18,7 +18,7 @@ namespace DllUp4
         /// <param name="y"></param>
         /// <param name="r"></param>
         /// <returns></returns>
-        public bool IsInArea(double x, double y, double r)
+        public static bool IsInArea(double x, double y, double r)
         {
             if 
                 (

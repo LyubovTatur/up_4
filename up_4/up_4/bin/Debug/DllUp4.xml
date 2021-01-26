@@ -4,6 +4,30 @@
         <name>DllUp4</name>
     </assembly>
     <members>
+        <member name="T:DllUp4.Fifth">
+            <summary>
+            Задание 4
+            </summary>
+        </member>
+        <member name="M:DllUp4.Fifth.#ctor(System.String)">
+            <summary>
+            Конструктор
+            </summary>
+            <param name="s"></param>
+        </member>
+        <member name="M:DllUp4.Fifth.print">
+            <summary>
+            Вывод
+            </summary>
+        </member>
+        <member name="M:DllUp4.Fifth.op_Addition(DllUp4.Fifth,DllUp4.Fifth)">
+            <summary>
+            Переоронделение оператора
+            </summary>
+            <param name="s1"></param>
+            <param name="s2"></param>
+            <returns></returns>
+        </member>
         <member name="T:DllUp4.First">
             <summary>
             Класс для первого задания
@@ -32,6 +56,58 @@
             <summary>
             Возвращает разность чисел
             </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DllUp4.Fourth">
+            <summary>
+            Задание 4
+            </summary>
+        </member>
+        <member name="M:DllUp4.Fourth.Print">
+            <summary>
+            Вывод элементов
+            </summary>
+        </member>
+        <member name="M:DllUp4.Fourth.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор случайные числа
+            </summary>
+            <param name="n"></param>
+            <param name="m"></param>
+        </member>
+        <member name="M:DllUp4.Fourth.#ctor(System.String)">
+            <summary>
+            Конструктор из файла
+            </summary>
+            <param name="filename"></param>
+        </member>
+        <member name="M:DllUp4.Fourth.DelCount(System.Int32)">
+            <summary>
+            Количество  делителей у числа
+            </summary>
+            <param name="n"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllUp4.Fourth.NumCount">
+            <summary>
+            Количество чисел с колвом делителей равным 3 в последнем столбце
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllUp4.Fourth.op_GreaterThanOrEqual(DllUp4.Fourth,DllUp4.Fourth)">
+            <summary>
+            Большей считается та матрица, в которой число чисел, имеющих ровно 3 делителя в последнем столбце больше.
+            </summary>
+            <param name="a1"></param>
+            <param name="a2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllUp4.Fourth.op_LessThanOrEqual(DllUp4.Fourth,DllUp4.Fourth)">
+            <summary>
+            Большей считается та матрица, в которой число чисел, имеющих ровно 3 делителя в последнем столбце больше.
+            </summary>
+            <param name="a1"></param>
+            <param name="a2"></param>
             <returns></returns>
         </member>
         <member name="T:DllUp4.Second">
@@ -65,6 +141,56 @@
             <summary>
             Индивидуальное задание
             </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DllUp4.Sixth">
+            <summary>
+            Задание 6
+            </summary>
+        </member>
+        <member name="M:DllUp4.Sixth.IsInArea(System.Double,System.Double,System.Double)">
+            <summary>
+            Входит ли в область точка
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="r"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DllUp4.Third">
+            <summary>
+            Задание 3
+            </summary>
+        </member>
+        <member name="M:DllUp4.Third.#ctor(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Конструктор со списком
+            </summary>
+            <param name="elems"></param>
+        </member>
+        <member name="M:DllUp4.Third.#ctor(System.Int32)">
+            <summary>
+            Конструктор со случайными числами
+            </summary>
+            <param name="count"></param>
+        </member>
+        <member name="M:DllUp4.Third.#ctor(System.String)">
+            <summary>
+            Конструктор считывает из файла
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:DllUp4.Third.Show">
+            <summary>
+            Вывод списка
+            </summary>
+        </member>
+        <member name="M:DllUp4.Third.op_Multiply(DllUp4.Third,DllUp4.Third)">
+            <summary>
+            Скалярное произведение
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
             <returns></returns>
         </member>
     </members>
