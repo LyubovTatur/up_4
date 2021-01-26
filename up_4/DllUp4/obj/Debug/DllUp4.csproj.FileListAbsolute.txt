@@ -1,0 +1,7 @@
+A:\repositories\up_4\up_4\DllUp4\bin\Debug\DllUp4.xml
+A:\repositories\up_4\up_4\DllUp4\bin\Debug\DllUp4.dll
+A:\repositories\up_4\up_4\DllUp4\bin\Debug\DllUp4.pdb
+A:\repositories\up_4\up_4\DllUp4\obj\Debug\DllUp4.csprojAssemblyReference.cache
+A:\repositories\up_4\up_4\DllUp4\obj\Debug\DllUp4.csproj.CoreCompileInputs.cache
+A:\repositories\up_4\up_4\DllUp4\obj\Debug\DllUp4.dll
+A:\repositories\up_4\up_4\DllUp4\obj\Debug\DllUp4.pdb

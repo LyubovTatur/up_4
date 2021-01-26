@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DllUp4</name>
+    </assembly>
+    <members>
+        <member name="T:DllUp4.First">
+            <summary>
+            Класс для первого задания
+            </summary>
+        </member>
+        <member name="M:DllUp4.First.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+        </member>
+        <member name="M:DllUp4.First.#ctor(System.Int32)">
+            <summary>
+            Конструктор
+            </summary>
+            <param name="limit">Числа задаются случайно в заданном пределе</param>
+        </member>
+        <member name="M:DllUp4.First.#ctor(System.String)">
+            <summary>
+            Конструктор
+            </summary>
+            <param name="path">Числа считываются из файла с заданным именем</param>
+        </member>
+        <member name="M:DllUp4.First.Difference">
+            <summary>
+            Возвращает разность чисел
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DllUp4.Second">
+            <summary>
+            Класс для второго задания
+            </summary>
+        </member>
+        <member name="M:DllUp4.Second.#ctor(System.Int32)">
+            <summary>
+            Конструктор задает число
+            </summary>
+            <param name="num"></param>
+        </member>
+        <member name="M:DllUp4.Second.#ctor">
+            <summary>
+            Конструктор задаеьтся случайное число
+            </summary>
+        </member>
+        <member name="M:DllUp4.Second.#ctor(System.String)">
+            <summary>
+            Конструктор число считывается из файла
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:DllUp4.Second.Show">
+            <summary>
+            Выводит чило в консоль
+            </summary>
+        </member>
+        <member name="M:DllUp4.Second.Task">
+            <summary>
+            Индивидуальное задание
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+A:\repositories\up_4\up_4\up_4\bin\Debug\up_4.exe.config
+A:\repositories\up_4\up_4\up_4\bin\Debug\up_4.exe
+A:\repositories\up_4\up_4\up_4\bin\Debug\up_4.pdb
+A:\repositories\up_4\up_4\up_4\bin\Debug\DllUp4.dll
+A:\repositories\up_4\up_4\up_4\bin\Debug\DllUp4.pdb
+A:\repositories\up_4\up_4\up_4\bin\Debug\DllUp4.xml
+A:\repositories\up_4\up_4\up_4\obj\Debug\up_4.csprojAssemblyReference.cache
+A:\repositories\up_4\up_4\up_4\obj\Debug\up_4.csproj.CoreCompileInputs.cache
+A:\repositories\up_4\up_4\up_4\obj\Debug\up_4.csproj.CopyComplete
+A:\repositories\up_4\up_4\up_4\obj\Debug\up_4.exe
+A:\repositories\up_4\up_4\up_4\obj\Debug\up_4.pdb
